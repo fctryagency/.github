@@ -4,7 +4,7 @@
 
 Please include a summary of the change and the Monday ticket number. Provide relevant motivation and context. List any dependencies that are required for this change.
 
-Ticket: [Monday ticket number]
+Ticket: [Monday ticket URL]
 
 ## Type of change
 
