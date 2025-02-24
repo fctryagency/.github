@@ -25,6 +25,7 @@ Please ensure your pull request adheres to the following guidelines by ticking t
 - [ ] I have made corresponding changes to the documentation
 - [ ] My changes generate no new warnings
 - [ ] I have checked my code for any `console.log` statements and removed them
+- [ ] I have ran the linter and there are no new warnings
 
 ## Screenshots (if applicable)
 
